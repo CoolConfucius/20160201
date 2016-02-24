@@ -1,4 +1,6 @@
-# Auth Starter Pack
+# Property Management App
+
+A tool for landlords to oversee their apartments and for tenants to find, move in and out of rooms.
 
 To begin enter `npm run setup`.  This will install all dependencies.
 
